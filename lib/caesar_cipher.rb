@@ -1,3 +1,5 @@
+class CC
+
 def caesar_cipher(input,num)
   letters_array = input.split("")
   #split the string into array of letters
@@ -14,4 +16,6 @@ def caesar_cipher(input,num)
   end
   #convert the new ascii number into new array of letters
 puts result.join
+end
+
 end
