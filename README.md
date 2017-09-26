@@ -1,4 +1,4 @@
-Ruby projects from The Odin Project curriculum: focusing on basic knowledge of conditionals and flow control. 
+Practice with conditionals and flow control via a few algorithms...
 
 #caesar_cipher shifts the alphabets of a given string by a specified shift factor.
 
